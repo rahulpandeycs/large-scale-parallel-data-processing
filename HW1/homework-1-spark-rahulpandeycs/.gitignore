@@ -1,0 +1,8 @@
+*.class
+*.log
+.idea/
+extrasInput/
+spark-demo.iml
+twOutputLocal/
+twInput/
+output/
